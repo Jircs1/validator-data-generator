@@ -14,7 +14,7 @@ pyinstaller==4.10 \
     --hash=sha256:cfed0b3a43e73550a43a094610328109564710b9514afa093ef7199d072cae87 \
     --hash=sha256:d4f79c0a774451f12baca4e476376418f011fa3039dde8fd172ea2aa8ff67bad \
     --hash=sha256:f2166ff2cd95eefb0d377ae8d1071f186fa25edd410ede65b376162d5ec41909
-setuptools==60.9.3 \
+setuptools==70.0.0 \
     --hash=sha256:2347b2b432c891a863acadca2da9ac101eae6169b1d3dfee2ec605ecd50dbfe5 \
     --hash=sha256:e4f30b9f84e5ab3decf945113119649fec09c1fc3507c6ebffec75646c56e62b
 cffi==1.15.0 \
